@@ -20,12 +20,12 @@ I'm a Software Developer, and I’ve got some organisations that you might want 
   </a>
 </div>
 
-**To reach to me**
+**To reach to me 🤜**
 
-- 📫 [leo.lemos.ds@icloud.com](mailto:leo.lemos.ds@icloud.com)
-- [LinkedIn](https://www.linkedin.com/in/leo-lemos/)
+- [leo.lemos.ds@icloud.com](mailto:leo.lemos.ds@icloud.com) 📫
+- [LinkedIn](https://www.linkedin.com/in/leo-lemos/) 🔎
 
-### A few for Nerds
+**A few data for Nerds**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrlemoos&theme=omni&hide_border=true)](https://git.io/streak-stats)
 
