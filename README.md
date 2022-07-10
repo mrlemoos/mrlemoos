@@ -1,4 +1,4 @@
-### Hey there 
+### Hey there 👋
 
 I’m Leonardo Lemos or Leo for short. 
 
