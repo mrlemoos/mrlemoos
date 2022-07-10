@@ -1,9 +1,8 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:30px" />
-</h1>
+### Hey there 
 
-I’m Leonardo Lemos, Software Developer. Also I’ve got some organisations that you might want to check out.
+I’m Leonardo Lemos or Leo for short. 
+
+I'm a Software Developer, and I’ve got some organisations that you might want to check out.
 
 **Organisations**
 
