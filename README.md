@@ -24,6 +24,7 @@ I'm a Software Developer, and I’ve got some organisations that you might want 
 
 - [leo.lemos.ds@icloud.com](mailto:leo.lemos.ds@icloud.com) 📫
 - [LinkedIn](https://www.linkedin.com/in/leo-lemos/) 🔎
+- [Rocketseat Profile](https://app.rocketseat.com.br/me/leonardo-lemos-01020)
 
 **A few data for Nerds**
 
