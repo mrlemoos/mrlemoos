@@ -36,7 +36,7 @@ I'm a Software Developer, and I’ve got some organisations that you might want 
 - 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/), despite [Kotlin](https://kotlinlang.org) & [Android Jetpack Compose](https://www.google.com/search?hl=en&q=jetpack%20compose).
 - 📫 How to reach me: All those links under the **To reach to me 🤜**.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I learned to develop when I was 12 years-old.
+- ⚡ Fun fact: I learned to develop when I was 12 years-old and I learnt Java.
 - 🎯 Next Objective: To become a Tech Leader.
 
 <!--
