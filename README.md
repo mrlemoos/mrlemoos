@@ -32,6 +32,11 @@ I'm a Software Developer, and I’ve got some organisations that you might want 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlemoos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on some projects such as [Louffee](https://github.com/louffee), despite BEES AB-Inbev, where I work full-time to deliver some high-quality code hehe.
+- 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/), despite Android Jetpack.
+- 📫 How to reach me: All those links under the **To reach to me 🤜**.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I learned to develop when I was 12 years-old.
 
 <!--
 **mrlemoos/mrlemoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
