@@ -32,7 +32,7 @@ I'm a Software Developer, and I’ve got some organisations that you might want 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlemoos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on some projects such as [Louffee](https://github.com/louffee), despite [Credo AI](https://credo.ai), where I'm a full-time software engineer aiming to make responsible AI adoption be an enabler for enterprises!
+- 🔭 I’m working on some personal projects that you can see on my GitHub repos, besides [Credo AI](https://credo.ai) where I'm a full-time software engineer aiming to make responsible AI adoption an enabler for enterprises!
 - 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/), despite [Kotlin](https://kotlinlang.org) & [Android Jetpack Compose](https://www.google.com/search?hl=en&q=jetpack%20compose).
 - 📫 How to reach me: All those links under the **To reach to me 🤜**.
 - 😄 Pronouns: He/him
