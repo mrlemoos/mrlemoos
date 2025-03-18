@@ -2,7 +2,7 @@
 
 I’m Leonardo Lemos or Leo for short.
 
-I'm a Software Developer, and I’ve got some organisations that you might want to check out.
+I'm a Software Engineer, and I’ve got some organisations that you might want to check out.
 
 **Organisations**
 
@@ -28,7 +28,7 @@ I'm a Software Developer, and I’ve got some organisations that you might want 
 
 **A few data for Nerds**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrlemoos&theme=omni&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrlemoos&theme=dark-minimalist&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlemoos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
