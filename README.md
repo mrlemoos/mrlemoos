@@ -4,6 +4,7 @@ I’m Leonardo Lemos or Leo for short - a Software Engineer, and I’ve got some
 
 **Organisations**
 
+- [plan/ria](https://github.com/mrlemoos)
 - [Louffee](https://github.com/louffee)
 - [Swiftando](https://github.com/Swiftando)
 - [TomahawkUI](https://github.com/Tomahawk-UI)
@@ -21,7 +22,7 @@ I’m Leonardo Lemos or Leo for short - a Software Engineer, and I’ve got some
 
 - [leo.lemos.ds@icloud.com](mailto:leo.lemos.ds@icloud.com) 📫
 - [LinkedIn](https://www.linkedin.com/in/leo-lemos/) 🔎
-- [Rocketseat Profile](https://app.rocketseat.com.br/me/leonardo-lemos-01020)
+
 
 **A few data for nerds**
 
@@ -33,3 +34,4 @@ I’m Leonardo Lemos or Leo for short - a Software Engineer, and I’ve got some
 - 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/), despite [Kotlin](https://kotlinlang.org) & [Android Jetpack Compose](https://www.google.com/search?hl=en&q=jetpack%20compose).
 - ⚡ Fun fact: I learnt programming my first language - Java - when I was 12 years old.
 - 🎯 Next Objective: To become a Software Architect.
+- 📍Location: Metro Vancouver
