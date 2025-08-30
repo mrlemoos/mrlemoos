@@ -1,13 +1,12 @@
 ### Hey there 👋
 
-I’m Leonardo Lemos or Leo for short - a Software Engineer, and I’ve got some organisations that you might want to check out.
+I’m Leonardo Lemos (or Leo for short) - a Software Engineer, and I’ve got some organisations and projects that you might want to check out.
 
-**Organisations**
+**Organisations & Projects**
 
 - [plan/ria](https://github.com/mrlemoos)
+- [mrlemoos.dev](https://github.com/mrlemoos/mrlemoos.dev)
 - [Louffee](https://github.com/louffee)
-- [Swiftando](https://github.com/Swiftando)
-- [TomahawkUI](https://github.com/Tomahawk-UI)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/leo-lemos/" target="_blank">
