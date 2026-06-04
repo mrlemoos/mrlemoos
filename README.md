@@ -4,9 +4,10 @@ I’m Leonardo Lemos (or Leo for short) - a Software Engineer, and I’ve got so
 
 **Organisations & Projects**
 
-- [plan/ria](https://github.com/mrlemoos)
+- [nota](https://github.com/mrlemoos/nota)
+- [plan/ria](https://github.com/mrlemoos/planria)
 - [mrlemoos.dev](https://github.com/mrlemoos/mrlemoos.dev)
-- [Louffee](https://github.com/louffee)
+- [Louffee](https://github.com/louffee) (not maintained)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/leo-lemos/" target="_blank">
@@ -19,7 +20,7 @@ I’m Leonardo Lemos (or Leo for short) - a Software Engineer, and I’ve got so
 
 **To reach to me 🤜**
 
-- [leo.lemos.ds@icloud.com](mailto:leo.lemos.ds@icloud.com) 📫
+- [me@mrlemoos.dev](me@mrlemoos.dev) 📫
 - [LinkedIn](https://www.linkedin.com/in/leo-lemos/) 🔎
 
 ---
