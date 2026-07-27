@@ -33,4 +33,3 @@ I’m Leonardo Lemos (or Leo for short) - a Software Engineer, and I’ve got so
 - 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 - ⚡ Fun fact: I learnt programming my first language - Java - when I was 12 years old.
 - 🎯 Next Objective: To become a Software Architect.
-- 📍Location: Metro Vancouver
