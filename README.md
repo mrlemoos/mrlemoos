@@ -4,7 +4,7 @@ I’m Leonardo Lemos (or Leo for short) - a Software Engineer, and I’ve got so
 
 **Organisations & Projects**
 
-- [nota](https://github.com/mrlemoos/nota)
+- [madrid](https://github.com/mrlemoos/madrid)
 - [plan/ria](https://github.com/mrlemoos/planria)
 - [mrlemoos.dev](https://github.com/mrlemoos/mrlemoos.dev)
 - [Louffee](https://github.com/louffee) (not maintained)
